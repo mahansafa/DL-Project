@@ -25,6 +25,7 @@ models/*
 !models/.gitkeep
 reports/*
 !reports/.gitkeep
+out/q2_submission.csv
 *.pt
 *.pth
 *.h5
